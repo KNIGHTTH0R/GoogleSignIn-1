@@ -5,7 +5,7 @@ Quick Start for Integrating Google Sign In to websites
 
 ### Clone git repo:
 ```bash
-https://github.com/drtweety/GoogleSignIn.git
+git clone https://github.com/drtweety/GoogleSignIn.git
 ```
 ### Runc Composer to install Google Sign In Library
 ```bash
